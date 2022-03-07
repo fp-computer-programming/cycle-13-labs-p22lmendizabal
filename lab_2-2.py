@@ -1,5 +1,5 @@
 #author (AMDG) 3/4/22
-
+#input statements to use in function 
 wheels = int(input("Enter the number of wheels: "))
 axel = int(input("enter the number of axels: "))
 doors= int(input("Enter the number of doors: "))
